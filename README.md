@@ -42,4 +42,4 @@ Application web Full-stack développée pour la gestion numérique de la bibliot
 
 ---
 ## 📧 Contact
-Développé par **[Smitk Hna]** - Étudiante en Développement Web Full-stack.
+Développé par **[Yousra Amaarir]** - Étudiante en Développement Web Full-stack.
