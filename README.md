@@ -1,28 +1,45 @@
-# 📚 E-Library Management System (ISTA Project)
+# 📚 Système de Gestion de Bibliothèque - ISTA
 
-## 📝 Project Overview
-This is a full-stack web application developed as a management tool for the ISTA library. It streamlines the process of managing books, students, and document borrowing.
+## 📝 Description
+Application web Full-stack développée pour la gestion numérique de la bibliothèque de l'ISTA. Ce projet permet de gérer les ouvrages, les emprunts et les comptes étudiants de manière efficace et sécurisée.
 
-## ⚙️ Core Functionalities
-* **Authentication System:** Secure login for Admin and Students.
-* **Book Management (CRUD):** Add, update, and delete books from the catalog.
-* **Search Engine:** Filter books by title, author, or category.
-* **User Dashboard:** A clean interface to track borrowed books and deadlines.
-* **Database Integration:** Fully managed with MySQL.
+## 🚀 Fonctionnalités Clés
+* **Gestion des Livres (CRUD):** Ajouter, modifier et supprimer des ouvrages.
+* **Système d'Authentification:** Accès sécurisé pour l'admin et les étudiants.
+* **Recherche Dynamique:** Filtrage par titre, auteur ou catégorie.
+* **Tableau de Bord:** Vue d'ensemble sur les statistiques et les emprunts en cours.
 
-## 🛠️ Technical Stack
-* **Backend:** PHP (Native).
+## 🛠️ Stack Technique
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap.
-* **Database:** MySQL.
-* **Tools:** XAMPP / PhpMyAdmin.
+* **Backend:** PHP (Native).
+* **Base de données:** MySQL.
 
-## 📸 Project Preview
-1.png
-2.png
-3.png
-4.png
-5.png
-6.png
+## 📸 Aperçu du Projet (Screenshots)
 
-## 🎓 Academic Context
-Developed as part of my Full-stack Web Development diploma at **ISTA**.
+### 🖥️ Interface Principale & Login
+<table>
+  <tr>
+    <td><img src="1.png" width="400"><br><sub>Interface d'accueil</sub></td>
+    <td><img src="2.png" width="400"><br><sub>Page de Connexion</sub></td>
+  </tr>
+</table>
+
+### 📊 Dashboard & Gestion
+<table>
+  <tr>
+    <td><img src="3.png" width="400"><br><sub>Tableau de bord Admin</sub></td>
+    <td><img src="4.png" width="400"><br><sub>Liste des ouvrages</sub></td>
+  </tr>
+</table>
+
+### 🔍 Recherche & Emprunts
+<table>
+  <tr>
+    <td><img src="5.png" width="400"><br><sub>Système de recherche</sub></td>
+    <td><img src="6.png" width="400"><br><sub>Gestion des emprunts</sub></td>
+  </tr>
+</table>
+
+---
+## 📧 Contact
+Développé par **[Smitk Hna]** - Étudiante en Développement Web Full-stack.
